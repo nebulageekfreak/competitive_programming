@@ -1,3 +1,3 @@
 # competitive_programming
 Hello there, this repository contains my solutions to problems from different platforms like codeforces, leetcode.
-**The challenges can be found at www.codeforces.com and leetcode.com**
+**The challenges can be found at www.codeforces.com and www.leetcode.com**
