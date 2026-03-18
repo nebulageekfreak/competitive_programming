@@ -1,3 +1,4 @@
-lengthOf_n = len(input())
+n = input()
+lucky_nums = sum(1 for x in n if x in '47')
 
-print('YES' if lengthOf_n == 4 or lengthOf_n == 7 else 'NO')
+print('YES' if all(x in '47' for x in str(lucky_nums)) else 'NO')
