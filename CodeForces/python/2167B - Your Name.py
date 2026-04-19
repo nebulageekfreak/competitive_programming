@@ -12,3 +12,4 @@ for i in range(t):
             counter += 1
             lstName2.remove(v)
     print('YES' if counter == lengthOfName else "NO")
+#!!!
